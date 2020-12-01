@@ -1,5 +1,8 @@
 # Day 1
 __11/30/2020__
-## What I Learned in Coding school is...
 
-how to code
+## In your own words, why do we use GIT?
+
+## What are the benefits of having multiple branches?
+
+## WHat is the difference between GIT and GITHUB?
