@@ -62,7 +62,7 @@ The html tag
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-It is the amount a flexible element will will grow or shrink in relation to other flexible elements.
+It is a property that puts elements on an x and y axis within a conainer in order to manipulate their position more easily
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
