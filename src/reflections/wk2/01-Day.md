@@ -11,3 +11,4 @@ Hoisting means that javascript moves all variable declarations to the top. This 
 
 ## In what cases might you use let vs const vs var?
 
+Const will be used anytime you don't want the value to change ever. Var will be used if you want it to only apply to the immediate function body. Let will be used if you want it to apply to it's anything within it's block of brackets.
