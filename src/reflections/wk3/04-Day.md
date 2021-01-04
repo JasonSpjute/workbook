@@ -13,3 +13,4 @@ The broadcast method executes all events with the data.
 
 ## Review the code generated from the bcw-template and reflect on the proxy objects from yesterday, and your understanding of the observer pattern today. With this knowledge, explain how the magic of the bcw-template uses these two concepts to manage and update the dom.
 
+The proxystate is a proxy of the appstate. If you are getting data from it, it will run through isValidProp() first to determine if it is a valid property. If it is not, it returns an error. If it is, it returns the target[property]. If you are setting new data, it will fist run isValidProp. It will return an error if it is not a valid property. Then it sets the property's value in the object. From there it will run it through the event emitter. The event emitter broadcasts the data to any functions that have access to it.
