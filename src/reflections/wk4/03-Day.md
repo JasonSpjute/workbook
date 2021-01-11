@@ -13,3 +13,7 @@ You must define the function as async. This can be done by adding the word async
 ## What are some of the primary benefits of async / await?
 
 Async / await makes code easier to read vs the chaining of promises. You can also do multiple async funtions in a series. Debugging gets easier because async/await looks like synchronous code to the compiler.
+
+### Afternoon Challenge
+
+https://github.com/JasonSpjute/pokemon

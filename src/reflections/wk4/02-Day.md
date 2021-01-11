@@ -15,3 +15,7 @@ With promises, we can chain multiple callbacks one after the other. This makes f
 ## What is the difference between .then() and .catch()?
 
 Then dictates what to do when the promise is successful. Catch dictates what to do when the promise fails.
+
+### Afternoon Challenge
+
+https://github.com/JasonSpjute/gregslist-using-api

@@ -14,3 +14,7 @@ Async means to take some time. Instead of returning a result immediately, these 
 - Keep your code shallow. Naming your functions will make code easier to read. This allows you to reference your functions at the top of the page and declare them at the the bottom.
 - Modularize. Break your code up into smaller modules that each do one thing.
 -Handle every single error. Make sure that if there is an error, it will alert you to this.
+
+### Afternoon Challenge
+
+https://github.com/JasonSpjute/trivia
