@@ -1,5 +1,5 @@
 # Day-2
-__01/12/20__
+__01/12/21__
 
 ## What are the three types of relationships?
 
@@ -11,4 +11,8 @@ One benefit is that the size of the parent will not change as children are added
 
 ## What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive you decision on how to create it?
 
-If we use queries, we must perform two queries in both directions. This becomes impractical if we have thousands on one side. If we use one way embedding, we can easily break the 16mb max document size. The most effective way would be third collection embedding. This allows you to keep just a record of the relationships
+If we use queries, we must perform two queries in both directions. This becomes impractical if we have thousands on one side. If we use one way embedding, we can easily break the 16mb max document size. The most effective way would be third collection embedding. This allows you to keep just a record of the relationships.
+
+### Afternoon Challenge
+
+https://github.com/JasonSpjute/winter20-gregslist-server
