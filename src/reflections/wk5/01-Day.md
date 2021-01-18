@@ -11,7 +11,7 @@ A query parameter starts with a question mark.This is followed by key=value. Mul
 
 ## When do you think Query parameters would be helpful when writing your server?
 
-Query parameters are helpful for using a filter or a search. They help you to be more specific in what you are looking for.
+Query parameters are helpful for using a filter or a search. They are good for finding all the children of a parent using the parent's id.
 
 ### Afternoon Challenge
 
