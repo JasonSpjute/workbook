@@ -36,21 +36,21 @@ let Schema = ________.Schema;
 ```
 <!-- enter you answer in the space below -->
 ```
-
+mongoose, mongoose, mongoose
 ```
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-
+Middleware is functions that have access to the request, response and next function.
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+request, response
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+You would use ?tag=winter
 ```
